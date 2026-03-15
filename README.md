@@ -80,7 +80,7 @@ The dataset used in this project represents a **retail superstore sales dataset*
 # 📊 Dashboard Preview
 
 ### Sales Dashboard
-
+Main_Dashboard.png 
 
 ### Sales Forecast Dashboard
 (Add Screenshot Here)
